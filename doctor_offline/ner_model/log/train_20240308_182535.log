@@ -1,0 +1,6 @@
+Epoch: 0 | mean loss: -28.94062 | total acc: 1.00000 | total recall: 1.00000 | total f1 scroe: 1.00000
+Epoch: 1 | mean loss: -279.64932 | total acc: 1.00000 | total recall: 1.00000 | total f1 scroe: 1.00000
+Epoch: 2 | mean loss: -509.99936 | total acc: 1.00000 | total recall: 1.00000 | total f1 scroe: 1.00000
+Epoch: 3 | mean loss: -742.64111 | total acc: 1.00000 | total recall: 1.00000 | total f1 scroe: 1.00000
+Epoch: 4 | mean loss: -973.72308 | total acc: 1.00000 | total recall: 1.00000 | total f1 scroe: 1.00000
+Epoch: 5 | mean loss: -1203.45898 | total acc: 1.00000 | total recall: 1.00000 | total f1 scroe: 1.00000
